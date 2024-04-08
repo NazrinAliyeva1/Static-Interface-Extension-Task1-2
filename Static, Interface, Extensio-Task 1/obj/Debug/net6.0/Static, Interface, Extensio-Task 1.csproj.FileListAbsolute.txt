@@ -1,0 +1,14 @@
+C:\Users\99455\source\repos\Static, Interface, Extensio-Task 1\Static, Interface, Extensio-Task 1\bin\Debug\net6.0\Static, Interface, Extensio-Task 1.exe
+C:\Users\99455\source\repos\Static, Interface, Extensio-Task 1\Static, Interface, Extensio-Task 1\bin\Debug\net6.0\Static, Interface, Extensio-Task 1.deps.json
+C:\Users\99455\source\repos\Static, Interface, Extensio-Task 1\Static, Interface, Extensio-Task 1\bin\Debug\net6.0\Static, Interface, Extensio-Task 1.runtimeconfig.json
+C:\Users\99455\source\repos\Static, Interface, Extensio-Task 1\Static, Interface, Extensio-Task 1\bin\Debug\net6.0\Static, Interface, Extensio-Task 1.dll
+C:\Users\99455\source\repos\Static, Interface, Extensio-Task 1\Static, Interface, Extensio-Task 1\bin\Debug\net6.0\Static, Interface, Extensio-Task 1.pdb
+C:\Users\99455\source\repos\Static, Interface, Extensio-Task 1\Static, Interface, Extensio-Task 1\obj\Debug\net6.0\Static, Interface, Extensio-Task 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\source\repos\Static, Interface, Extensio-Task 1\Static, Interface, Extensio-Task 1\obj\Debug\net6.0\Static, Interface, Extensio-Task 1.AssemblyInfoInputs.cache
+C:\Users\99455\source\repos\Static, Interface, Extensio-Task 1\Static, Interface, Extensio-Task 1\obj\Debug\net6.0\Static, Interface, Extensio-Task 1.AssemblyInfo.cs
+C:\Users\99455\source\repos\Static, Interface, Extensio-Task 1\Static, Interface, Extensio-Task 1\obj\Debug\net6.0\Static, Interface, Extensio-Task 1.csproj.CoreCompileInputs.cache
+C:\Users\99455\source\repos\Static, Interface, Extensio-Task 1\Static, Interface, Extensio-Task 1\obj\Debug\net6.0\Static, Interface, Extensio-Task 1.dll
+C:\Users\99455\source\repos\Static, Interface, Extensio-Task 1\Static, Interface, Extensio-Task 1\obj\Debug\net6.0\refint\Static, Interface, Extensio-Task 1.dll
+C:\Users\99455\source\repos\Static, Interface, Extensio-Task 1\Static, Interface, Extensio-Task 1\obj\Debug\net6.0\Static, Interface, Extensio-Task 1.pdb
+C:\Users\99455\source\repos\Static, Interface, Extensio-Task 1\Static, Interface, Extensio-Task 1\obj\Debug\net6.0\Static, Interface, Extensio-Task 1.genruntimeconfig.cache
+C:\Users\99455\source\repos\Static, Interface, Extensio-Task 1\Static, Interface, Extensio-Task 1\obj\Debug\net6.0\ref\Static, Interface, Extensio-Task 1.dll

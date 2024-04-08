@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\99455\\source\\repos\\Static, Interface, Extensio-Task 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B703D5BA-4BCD-4DA5-83E1-E8E63D303D53}|Static, Interface, Extensio-Task 1\\Static, Interface, Extensio-Task 1.csproj|c:\\users\\99455\\source\\repos\\static, interface, extensio-task 1\\static, interface, extensio-task 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B703D5BA-4BCD-4DA5-83E1-E8E63D303D53}|Static, Interface, Extensio-Task 1\\Static, Interface, Extensio-Task 1.csproj|solutionrelative:static, interface, extensio-task 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B703D5BA-4BCD-4DA5-83E1-E8E63D303D53}|Static, Interface, Extensio-Task 1\\Static, Interface, Extensio-Task 1.csproj|C:\\Users\\99455\\source\\repos\\Static, Interface, Extensio-Task 1\\static, interface, extensio-task 1\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B703D5BA-4BCD-4DA5-83E1-E8E63D303D53}|Static, Interface, Extensio-Task 1\\Static, Interface, Extensio-Task 1.csproj|solutionrelative:static, interface, extensio-task 1\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B703D5BA-4BCD-4DA5-83E1-E8E63D303D53}|Static, Interface, Extensio-Task 1\\Static, Interface, Extensio-Task 1.csproj|C:\\Users\\99455\\source\\repos\\Static, Interface, Extensio-Task 1\\static, interface, extensio-task 1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B703D5BA-4BCD-4DA5-83E1-E8E63D303D53}|Static, Interface, Extensio-Task 1\\Static, Interface, Extensio-Task 1.csproj|solutionrelative:static, interface, extensio-task 1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B703D5BA-4BCD-4DA5-83E1-E8E63D303D53}|Static, Interface, Extensio-Task 1\\Static, Interface, Extensio-Task 1.csproj|C:\\Users\\99455\\source\\repos\\Static, Interface, Extensio-Task 1\\static, interface, extensio-task 1\\extensions\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B703D5BA-4BCD-4DA5-83E1-E8E63D303D53}|Static, Interface, Extensio-Task 1\\Static, Interface, Extensio-Task 1.csproj|solutionrelative:static, interface, extensio-task 1\\extensions\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B703D5BA-4BCD-4DA5-83E1-E8E63D303D53}|Static, Interface, Extensio-Task 1\\Static, Interface, Extensio-Task 1.csproj|C:\\Users\\99455\\source\\repos\\Static, Interface, Extensio-Task 1\\static, interface, extensio-task 1\\static, interface, extensio-task 1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B703D5BA-4BCD-4DA5-83E1-E8E63D303D53}|Static, Interface, Extensio-Task 1\\Static, Interface, Extensio-Task 1.csproj|solutionrelative:static, interface, extensio-task 1\\static, interface, extensio-task 1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Static, Interface, Extensio-Task 1\\Static, Interface, Extensio-Task 1\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Static, Interface, Extensio-Task 1\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Static, Interface, Extensio-Task 1\\Static, Interface, Extensio-Task 1\\Models\\Student.cs",
+              "RelativeToolTip": "Static, Interface, Extensio-Task 1\\Models\\Student.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAowA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T00:41:01.138Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Static, Interface, Extensio-Task 1\\Static, Interface, Extensio-Task 1\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "Static, Interface, Extensio-Task 1\\Models\\Group.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Static, Interface, Extensio-Task 1\\Static, Interface, Extensio-Task 1\\Models\\Group.cs",
+              "RelativeToolTip": "Static, Interface, Extensio-Task 1\\Models\\Group.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T00:51:54.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Static, Interface, Extensio-Task 1",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Static, Interface, Extensio-Task 1\\Static, Interface, Extensio-Task 1\\Static, Interface, Extensio-Task 1.csproj",
+              "RelativeDocumentMoniker": "Static, Interface, Extensio-Task 1\\Static, Interface, Extensio-Task 1.csproj",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Static, Interface, Extensio-Task 1\\Static, Interface, Extensio-Task 1\\Static, Interface, Extensio-Task 1.csproj",
+              "RelativeToolTip": "Static, Interface, Extensio-Task 1\\Static, Interface, Extensio-Task 1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-08T00:40:28.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Static, Interface, Extensio-Task 1\\Static, Interface, Extensio-Task 1\\Extensions\\Helper.cs",
+              "RelativeDocumentMoniker": "Static, Interface, Extensio-Task 1\\Extensions\\Helper.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Static, Interface, Extensio-Task 1\\Static, Interface, Extensio-Task 1\\Extensions\\Helper.cs",
+              "RelativeToolTip": "Static, Interface, Extensio-Task 1\\Extensions\\Helper.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwHoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T19:14:20.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Static, Interface, Extensio-Task 1\\Static, Interface, Extensio-Task 1\\Program.cs",
+              "RelativeDocumentMoniker": "Static, Interface, Extensio-Task 1\\Program.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Static, Interface, Extensio-Task 1\\Static, Interface, Extensio-Task 1\\Program.cs",
+              "RelativeToolTip": "Static, Interface, Extensio-Task 1\\Program.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAAwIkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T19:12:47.193Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
